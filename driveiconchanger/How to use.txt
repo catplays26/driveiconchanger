@@ -1,0 +1,2 @@
+Place your icon file named: icon.ico in the .inf folder.
+run iconchanger.cmd
